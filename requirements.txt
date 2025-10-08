@@ -1,5 +1,12 @@
 certifi==2025.10.5
 charset-normalizer==3.4.3
+dotenv==0.9.9
+greenlet==3.2.4
 idna==3.10
+psycopg2-binary==2.9.10
+python-dotenv==1.1.1
 requests==2.32.5
+SQLAlchemy==2.0.43
+tinydb==4.8.2
+typing_extensions==4.15.0
 urllib3==2.5.0
