@@ -7,7 +7,7 @@ Base = declarative_base()
 
 class BitcoinPreco(Base):
     """"Define a tabela no banco de dados"""
-    __tablename__ = 'bitcoin_precos'
+    __tablename__ = 'bitcoin_eprecos'
 
     id = Column(Integer, primary_key=True, autoincrement=True)
     valor = Column(Float, nullable=False)
